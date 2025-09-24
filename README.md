@@ -50,3 +50,10 @@ npx react-native run-android
 
 # Run the app on iOS
 npx react-native run-ios
+## 📞 Contact
+
+Prasanna Venkatesh K.R - [pv6106@smist.edu.in](mailto:pv6106@smist.edu.in)
+
+Project Link: [https://github.com/prasanahhh/ecoscan-waste-app](https://github.com/prasanahhh/ecoscan-waste-app)
+
+LinkedIn: [https://linkedin.com/in/prasanna-kr](https://linkedin.com/in/prasanna-kr)
