@@ -18,7 +18,7 @@ A React Native mobile application that helps users classify waste materials usin
 
 | Home Screen | Analysis Screen | Results Screen |
 |-------------|-----------------|----------------|
-| <img src="home-screen.jpg" width="250"> | <img src="analysis-screen.jpg" width="250"> | <img src="results-screen.jpg" width="250"> |
+| <img src="home-screen.jpeg" width="250"> | <img src="analysis-screen.jpeg" width="250"> | <img src="results-screen.jpeg" width="250"> |
 
 </div>
 
