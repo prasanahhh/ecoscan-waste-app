@@ -12,7 +12,26 @@ A React Native mobile application that helps users classify waste materials usin
 
 ## 📸 App Preview
 
-[Add screenshots of your app here when you have them]
+<div align="center">
+  
+### EcoScan - Smart Waste Classification App
+
+| Home Screen | Analysis Screen | Results Screen |
+|-------------|-----------------|----------------|
+| <img src="screenshots/home-screen.jpg" width="250"> | <img src="screenshots/analysis-screen.jpg" width="250"> | <img src="screenshots/results-screen.jpg" width="250"> |
+
+</div>
+
+### 🎯 App Features Demonstrated:
+
+**Home Screen:** Clean interface with camera/gallery options  
+**Analysis Screen:** Real-time waste classification using AI  
+**Results Screen:** Detailed eco-friendly disposal guidance
+
+### 🔄 User Journey:
+1. **Home** → Choose image source (Camera/Gallery)
+2. **Analysis** → AI-powered waste classification
+3. **Results** → Get disposal recommendations
 
 ## 🛠️ Installation
 
